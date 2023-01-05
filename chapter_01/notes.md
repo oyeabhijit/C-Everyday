@@ -1,5 +1,7 @@
-# Chapter 01: Variables, Data types + Input/Output
+# Variables, Data Types, I/O
 
-## Variables
-
+### Variables
 Variables is the name of a memory location which stores dome data.
+
+
+### Datatypes
